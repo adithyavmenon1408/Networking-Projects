@@ -1,2 +1,4 @@
-# Networking-Projects
-Networking Projects using Packet Tracer
+# Secure Health Care Network-Project
+
+![image](https://github.com/adithyavmenon1408/Networking-Projects/assets/66137765/abf3a05f-b02e-4bd5-8b21-b3237ecb05ad)
+
